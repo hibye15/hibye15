@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 group-title="Blessing" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Aasirvadham TV
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 
@@ -63,7 +65,8 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9023&e=.m3u8
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 Malayalam
-
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="IN: ASIANET HD MALAYALAM" tvg-logo="http://glmtv.pw/logo/prestige/India/asianet_in.png" group-title="Malayalam",ASIANET HD 
+http://qqtv.nl:8080/viviana/viviana/30648
 #EXTINF:-1 tvg-id="3083" tvg-logo="https://www.pngitem.com/pimgs/m/192-1929742_asianet-channel-hd-png-download.png" group-title="Malayalam",Asianet
 http://58.27.219.166:8000/play/a0dt/index.m3u8
 #EXTINF: -1 tvg-id="844" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Malayalam", Mazavali Manorama HD
@@ -92,8 +95,8 @@ https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=129
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26574&e=.m3u8
 #EXTINF:-1 tvg-id="30835" tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="Malayalam",Surya Comedy
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=30835&e=.m3u8
-#EXTINF: -1 tvg-id="459" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="Malayalam", Asianet Movies
-http://58.27.219.166:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="IN: ASIANET MOVIES MALAYALAM" tvg-logo="http://glmtv.pw/logo/prestige/India/asianet_movies.png" group-title="Malayalam",ASIANET MOVIES
+http://qqtv.nl:8080/viviana/viviana/30647
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="Malayalam",Surya Movies
 https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9019&e=.m3u8
 #EXTINF:-1 tvg-id="26575" tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="
@@ -123,10 +126,12 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=38926&e=.m3u8
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAzFoQG.png" group-title="News", Times Now
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="News", BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorld.ca" tvg-name="BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png" group-title="NEWS
+http://qqtv.nl:8080/viviana/viviana/20063
 #EXTINF: -1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News", BBC World
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=BBC_World_News&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatodayrajdeepsardesdai.png",India Today
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=indiatoday
 
 Sports
 
@@ -165,7 +170,7 @@ https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=channel_21053350
 http://103.153.39.36:8000/play/a00t
 #EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",ROMEDY NOW
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOVIES
+#EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="exit" group-title="Movies", CineMax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
@@ -175,8 +180,10 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movies", Star World BDC
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movies", Star World BD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movies", Star World BD
 http://jupiter.bdcabletv.com/ENC-2/video.m3u8
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK: ACTION & ADVENTURE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-cinema-action-uk.png" group-title="Movies",UK: ACTION & ADVENTURE HD
+http://qqtv.nl:8080/viviana/viviana/15372
 
 Music
 
