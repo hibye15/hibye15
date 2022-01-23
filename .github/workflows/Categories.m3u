@@ -158,7 +158,7 @@ http://103.153.39.36:8000/play/a019
 
 Movies
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://https://static.epg.best/in/MoviesNow.in.png" group-title="Movies",MOVIES NOW
+#EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="Movies",MOVIES NOW
 http://180.178.130.180:8000/play/a05f/index.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX
 http://180.178.130.180:8000/play/a05e/index.m3u8
@@ -186,10 +186,6 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movies", Star World BDC
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movies", Star World BD
-http://jupiter.bdcabletv.com/ENC-2/video.m3u8
-#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK: ACTION & ADVENTURE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-cinema-action-uk.png" group-title="Movies",UK: ACTION & ADVENTURE HD
-http://qqtv.nl:8080/viviana/viviana/15372
 
 Music
 
