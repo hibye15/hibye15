@@ -174,6 +174,8 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=channel_2105335046
 #EXTINF:-1 group-title="Movies",tvg-logo="https://static.epg.best/in/ZeeCafe.in.png",Zee Café HD
 http://103.153.39.36:8000/play/a00t
+#EXTINF:-1 group-title="Movies",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg",Zee Café HD
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeecafehd
 #EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",ROMEDY NOW
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOVIES
