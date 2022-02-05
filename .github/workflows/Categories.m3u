@@ -5,6 +5,13 @@
 #EXTINF:-1 group-title="Blessing" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Aasirvadham TV
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 
+Infotainment
+
+#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment",BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 TAMIL
 
 #EXTINF: -1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil", Zee Tamil
@@ -159,15 +166,15 @@ http://103.153.39.36:8000/play/a019
 Movies
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="Movies",MOVIES NOW
-http://180.178.130.180:8000/play/a05f/index.m3u8
+http://live.flixhub.net/hls/movies-now.m3u8 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX
-http://180.178.130.180:8000/play/a05e/index.m3u8
+http://live.flixhub.net/hls/mnx-hd.m3u8 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX+
-http://180.178.130.180:8000/play/a04b/index.m3u8
+http://live.flixhub.net/hls/mn+.m3u8 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://https://static.epg.best/in/MoviesNow.in.png" group-title="Movies",MOVIES NO-Rs 10
 http://103.153.39.36:8000/play/a01i
 #EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOV HD-Rs 19
-http://103.153.39.36:8000/play/a00v
+http://live.flixhub.net/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&flix HD
@@ -196,7 +203,7 @@ Music
 #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-logo=""group-title="Music",Music INDIA
-http://14.199.164.20:4001/play/a0mt/index.m3u8
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM 
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hungama_Play?file=HungamaPlay.png"group-title="Music", Hungama Music
