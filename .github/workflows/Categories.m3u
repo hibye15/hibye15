@@ -100,7 +100,3 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM 
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hungama_Play?file=HungamaPlay.png"group-title="Music", Hungama Music
-https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/B4U_Kadak?file=B4U_Kadak.jpeg"group-title="Music", Kadak Music
-https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
