@@ -85,8 +85,6 @@ http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="exit" group-title="Movies", CineMax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:0 tvg-logo=""group-title="Movies",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg"group-title="Movies", HBO 
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="Movies", Star World BDC
