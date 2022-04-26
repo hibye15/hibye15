@@ -61,6 +61,16 @@ http://103.153.39.36:8000/play/a019
 
 Movies
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
+http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="Movies",MOVIES NOW
 http://live.flixhub.net/hls/movies-now.m3u8 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX
