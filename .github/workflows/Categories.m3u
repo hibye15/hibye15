@@ -9,6 +9,8 @@ Infotainment
 
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment",BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 channel-id="samsung-INBC43000016J" group-title="Infotainment" tvg-id="INBC43000016J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png" tvg-chno="1378" group-title="India" , HD TRAVEL
+https://i.mjh.nz/SamsungTVPlus/INBC43000016J.m3u8
 #EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",NATIONAL GEOGRAPHY
@@ -33,7 +35,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF: -1 tvg-id="140" tvg-logo="https://png.pngitem.com/pimgs/s/0-4317_transparent-1800-png-al-jazeera-english-logo-png.png" group-title="News", Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 channel-id="samsung-INBD4000058T" tvg-id="INBD4000058T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20240131T032537SQUARE.png_20240131032538.png" tvg-chno="1043" group-title="India" , WION
+#EXTINF:-1 channel-id="samsung-INBD4000058T" tvg-id="INBD4000058T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20240131T032537SQUARE.png_20240131032538.png" tvg-chno="1043" group-title="News", WION
 https://i.mjh.nz/SamsungTVPlus/INBD4000058T.m3u8
 #EXTINF:0 tvg-id="NDTV 24X7 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (IN)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
