@@ -31,7 +31,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF: -1 tvg-id="140" tvg-logo="https://png.pngitem.com/pimgs/s/0-4317_transparent-1800-png-al-jazeera-english-logo-png.png" group-title="News", Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0 tvg-id="255" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",Wion
+#EXTINF:-1 channel-id="samsung-INBD4000058T" tvg-id="INBD4000058T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20240131T032537SQUARE.png_20240131032538.png" tvg-chno="1043" group-title="India" , WION
 https://i.mjh.nz/SamsungTVPlus/INBD4000058T.m3u8
 #EXTINF:0 tvg-id="NDTV 24X7 (IN)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (IN)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
