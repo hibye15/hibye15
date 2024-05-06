@@ -13,10 +13,16 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 channel-id="samsung-INBC43000016J" group-title="Infotainment" tvg-id="INBC43000016J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png" tvg-chno="1378" group-title="India" , HD TRAVEL
 https://i.mjh.nz/SamsungTVPlus/INBC43000016J.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD Multi Audio
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",NATIONAL GEOGRAPHY
 https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/net_geo.m3u8
+#EXTINF:-1 group-title="Infotainment",TRAVEL XP FHD IN
+http://mag.123tv.to:8080/MilosTopcsov/b1ST2GAQCv/17820
+ #EXTINF:-1  group-title="Infotainment", Travel XP Tamil
+http://starshare.cc:41000/556747/556747/1623
 
 TAMIL
 
