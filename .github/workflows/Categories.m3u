@@ -102,6 +102,12 @@ https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies HD1
+http://xtv.ooo:8080/live/shahz18/18usman/109970.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies HD2
+#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
 Sony 
 
 #EXTINF:0 tvg-id="1000009246" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sneh SonyLiv",SONY HD
