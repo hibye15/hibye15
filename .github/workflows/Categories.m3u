@@ -15,14 +15,17 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBC43000016J.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",Discovery HD Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-#EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="164" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",NATIONAL GEOGRAPHY
-https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/net_geo.m3u8
-#EXTINF:-1 group-title="Infotainment",TRAVEL XP FHD IN
-http://mag.123tv.to:8080/MilosTopcsov/b1ST2GAQCv/17820
- #EXTINF:-1  group-title="Infotainment", Travel XP Tamil
-http://starshare.cc:41000/556747/556747/1623
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Infotainment",Nat Geo HD
+http://xtv.ooo:8080/live/shahz18/18usman/109977.ts
+#http://148.113.5.31:8106/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Infotainment",Nat Geo Wild
+http://xtv.ooo:8080/live/shahz18/18usman/206587.ts
+#http://148.113.5.31:8106/play/a00y/index.m3u8
+#https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Infotainment",Love nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 
 TAMIL
 
@@ -51,57 +54,24 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
-Sports
 
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",SONY SIX HD
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports",SONY TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",Star Spo 1 HD-Rs19
-http://103.153.39.36:8000/play/a00c
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Sports",Star Spo 2 HD- Rs19
-http://103.153.39.36:8000/play/a00d
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Sports",Star Sports 3 Rs 4
-http://103.153.39.36:8000/play/a00l
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",Star Sports S 1 HD-Rs19
-http://103.153.39.36:8000/play/a018
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",Star Sports S 2 HD-Rs10
-http://103.153.39.36:8000/play/a019
 
 Movies
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
-http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
-http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
-http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
-http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
-http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="Movies",MOVIES NOW
-http://live.flixhub.net/hls/movies-now.m3u8 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX
-http://live.flixhub.net/hls/mnx-hd.m3u8 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="Movies",MNX+
-http://live.flixhub.net/hls/mn+.m3u8 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://https://static.epg.best/in/MoviesNow.in.png" group-title="Movies",MOVIES NO-Rs 10
-http://103.153.39.36:8000/play/a01i
-#EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOV HD-Rs 19
-http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOV HD-Rs 19
-https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/starmoviehd.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR SelectMOV HD-Rs 19
-https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/starselectmovie.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies Select HD
+http://xtv.ooo:8080/live/shahz18/18usman/66315.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Movies",Movies Now HD
+http://xtv.ooo:8080/live/shahz18/18usman/109968.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Movies",MN HD+
+http://xtv.ooo:8080/live/shahz18/18usman/109965.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Movies",MNX HD
+http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
+
+
 #EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&flix HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Movies",And Prive HD
@@ -175,5 +145,62 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:0 tvg-id="821" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sneh SonyLiv",BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
+Sports
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports",SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",Star Spo 1 HD-Rs19
+http://103.153.39.36:8000/play/a00c
+#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Sports",Star Spo 2 HD- Rs19
+http://103.153.39.36:8000/play/a00d
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Sports",Star Sports 3 Rs 4
+http://103.153.39.36:8000/play/a00l
+#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",Star Sports S 1 HD-Rs19
+http://103.153.39.36:8000/play/a018
+#EXTINF: -1 tvg-id="001" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",Star Sports S 2 HD-Rs10
+http://103.153.39.36:8000/play/a019
 
 
+
+
+ tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+ tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",NATIONAL GEOGRAPHY
+https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/net_geo.m3u8
+TRAVEL XP FHD IN
+http://mag.123tv.to:8080/MilosTopcsov/b1ST2GAQCv/17820
+ Travel XP Tamil
+http://starshare.cc:41000/556747/556747/1623
+
+tvg-logo="https://singamcloud.com/tv/upload/1616232732_rasitv.png",Rasi TV
+http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
+tvg-logo="https://singamcloud.com/tv/upload/1616233067_rasi holly.png",Rasi hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8
+tvg-logo="https://singamcloud.com/tv/upload/1616232999_rasi music.png",Rasi Movie
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+tvg-logo="https://singamcloud.com/tv/upload/1616232914_rasi music.png",Rasi Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+tvg-logo="https://singamcloud.com/tv/upload/1616232845_rasi tamil.png",Rasi Tamil
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" 
+http://live.flixhub.net/hls/movies-now.m3u8 
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" 
+http://live.flixhub.net/hls/mnx-hd.m3u8 
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" 
+http://live.flixhub.net/hls/mn+.m3u8 
+tvg-logo="https://https://static.epg.best/in/MoviesNow.in.png" ,MOVIES NO-Rs 10
+http://103.153.39.36:8000/play/a01i
+tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" g,STAR MOV HD-Rs 19
+http://live.flixhub.net/hls/starmovies.m3u8
+tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png",STAR MOV HD-Rs 19
+https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/starmoviehd.m3u8
+ tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" ,STAR SelectMOV HD-Rs 19
+https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/starselectmovie.m3u8
