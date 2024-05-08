@@ -78,14 +78,14 @@ http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
 http://xtv.ooo:8080/shahz18/18usman/66229
 #EXTINF:0 CUID="458" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",IN | & Flix HD
 http://xtv.ooo:8080/shahz18/18usman/66236
-#EXTINF:0 CUID="459" tvg-name="IN: & Explor FHD" group-title="Movies",IN: & Explor FHD
-http://xtv.ooo:8080/shahz18/18usman/66241
+#EXTINF:0 CUID="456" tvg-name="IN | &Prive FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",IN | &Prive FHD
+http://xtv.ooo:8080/shahz18/18usman/66228
+
 #EXTINF:0 CUID="453" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="Movies",IN | Star World HD
 http://xtv.ooo:8080/shahz18/18usman/66211
 #EXTINF:0 CUID="454" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Movies",IN | Star Movies FHD
 http://xtv.ooo:8080/shahz18/18usman/66213
-#EXTINF:0 CUID="456" tvg-name="IN | &Prive FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",IN | &Prive FHD
-http://xtv.ooo:8080/shahz18/18usman/66228
+
 #EXTINF:0 CUID="463" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="Movies",IN | Fox Life FHD
 http://xtv.ooo:8080/shahz18/18usman/66278
 #EXTINF:0 CUID="464" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="Movies",IN | Romedy Now
@@ -122,11 +122,7 @@ https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies HD1
-http://xtv.ooo:8080/live/shahz18/18usman/109970.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies HD2
-#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 Sony 
 
