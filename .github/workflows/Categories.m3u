@@ -76,6 +76,11 @@ http://xtv.ooo:8080/live/shahz18/18usman/109965.ts
 http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
 #EXTINF:0 CUID="457" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="Movies",IN | HBO HD
 http://xtv.ooo:8080/shahz18/18usman/66229
+#EXTINF:0 CUID="458" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",IN | & Flix HD
+http://xtv.ooo:8080/shahz18/18usman/66236
+#EXTINF:0 CUID="459" tvg-name="IN: & Explor FHD" group-title="Movies",IN: & Explor FHD
+http://xtv.ooo:8080/shahz18/18usman/66241
+
 
 #EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&flix HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
