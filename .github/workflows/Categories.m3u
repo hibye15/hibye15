@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 #EXTM3U
 
@@ -74,40 +74,28 @@ http://xtv.ooo:8080/live/shahz18/18usman/109965.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Movies",MNX HD
 http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
-#EXTINF:0 CUID="457" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="Movies",IN | HBO HD
-http://xtv.ooo:8080/shahz18/18usman/66229
+
 #EXTINF:0 CUID="458" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",IN | & Flix HD
 http://xtv.ooo:8080/shahz18/18usman/66236
 #EXTINF:0 CUID="456" tvg-name="IN | &Prive FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",IN | &Prive FHD
 http://xtv.ooo:8080/shahz18/18usman/66228
-
-#EXTINF:0 CUID="453" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="Movies",IN | Star World HD
-http://xtv.ooo:8080/shahz18/18usman/66211
 #EXTINF:0 CUID="454" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Movies",IN | Star Movies FHD
 http://xtv.ooo:8080/shahz18/18usman/66213
 
-#EXTINF:0 CUID="463" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="Movies",IN | Fox Life FHD
-http://xtv.ooo:8080/shahz18/18usman/66278
+
 #EXTINF:0 CUID="464" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="Movies",IN | Romedy Now
 http://xtv.ooo:8080/shahz18/18usman/66282
+
 #EXTINF:0 CUID="465" tvg-name="IN | Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="Movies",IN | Zee Cafe HD
 http://xtv.ooo:8080/shahz18/18usman/66287
-#EXTINF:0 CUID="1723" tvg-name="IN | MN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",IN | MN+ HD
-http://xtv.ooo:8080/shahz18/18usman/66244
+#EXTINF:0 CUID="453" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="Movies",IN | Star World HD
+http://xtv.ooo:8080/shahz18/18usman/66211
+#EXTINF:0 CUID="463" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="Movies",IN | Fox Life FHD
+http://xtv.ooo:8080/shahz18/18usman/66278
 
 
-#EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&flix HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Movies",And Prive HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Movies",tvg-logo="https://static.epg.best/in/ZeeCafe.in.png",Zee Café HD
-http://103.153.39.36:8000/play/a00t
-#EXTINF:-1 group-title="Movies" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg",Colors Infinity SD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Movies",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Caf%C3%A9_2017.jpg",Zee Café HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",ROMEDY NOW
-http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+#EXTINF:0 CUID="457" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="Movies",IN | HBO HD
+http://xtv.ooo:8080/shahz18/18usman/66229
 #EXTINF: -1 tvg-id="001" tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="exit" group-title="Movies", CineMax
@@ -121,6 +109,23 @@ http://148.113.5.31:8106/play/a00o/index.m3u8
 https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO HD
 https://edge1.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg",Colors Infinity SD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Movies",tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Caf%C3%A9_2017.jpg",Zee Café HD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg",ROMEDY NOW
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+#EXTINF:0 CUID="1723" tvg-name="IN | MN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",IN | MN+ HD
+http://xtv.ooo:8080/shahz18/18usman/66244
+
+
+#EXTINF:-1 group-title="Movies",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&flix HD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Movies",And Prive HD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Movies",tvg-logo="https://static.epg.best/in/ZeeCafe.in.png",Zee Café HD
+http://103.153.39.36:8000/play/a00t
+
 
 
 
